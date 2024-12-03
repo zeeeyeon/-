@@ -3,7 +3,6 @@
 <p align="center">
   <img src="./images/logo.png" width="100%" height="100%" title="px(픽셀) 크기 설정"     alt="logo"></img>
 </p>
-
 ## ⏳ 프로젝트 진행과정 ##
 > SSAFY 12기 1학기 관통 프로젝트<br>
 > 개발기간: 2024.11.18 ~ 2024.11.27
